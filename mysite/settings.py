@@ -25,7 +25,7 @@ SECRET_KEY = '+uopk4#z$lk3h9mm8lkg70t*g!4@rr%yg(2yw0d()o1*2&s2dr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<pyluca>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'pyluca.pythonanywhere.com']
 
 
 # Application definition
